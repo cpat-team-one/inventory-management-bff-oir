@@ -37,4 +37,3 @@ export class StockItemsMockService implements StockItemsApi {
     ];
   }
 }
-

@@ -12,4 +12,3 @@ const provider: Provider = {
 export class StockItemServiceConfig {
   baseUrl: string;
 }
-
